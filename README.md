@@ -1,11 +1,11 @@
-# php-native-login-cookie-session
-php native code for login using cookie and session 
-with laragon
-apache port: 85
-mysql port: 3306
-username : admin
-password : adminGanteng
-dbname   : pbwquiz2
-
-NIM  : 192410102044
-Nama : Ahmad Zidni Zainul Ikhsan
+# php-native-login-cookie-session <br>
+php native code for login using cookie and session <br>
+with laragon<br>
+apache port: 85<br>
+mysql port: 3306<br>
+username : admin<br>
+password : adminGanteng<br>
+dbname   : pbwquiz2<br>
+<br>
+NIM  : 192410102044<br>
+Nama : Ahmad Zidni Zainul Ikhsan<br>
